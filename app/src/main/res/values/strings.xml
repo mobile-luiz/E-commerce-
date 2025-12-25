@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_product_card.kt">ProductCard.kt</string>
+    <string name="title_activity_product_detail_screen.kt">ProductDetailScreen.kt</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_activity_cart_screen">CartScreen</string>
+    <string name="title_activity_checkout_screen">CheckoutScreen</string>
+</resources>
